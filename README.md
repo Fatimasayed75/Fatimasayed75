@@ -30,7 +30,7 @@ I’m a passionate Software Engineering student at the University of Bahrain and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimasayed75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimasayed75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="53%" />
 </p>
 
 <p align="center">
