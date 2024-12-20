@@ -30,18 +30,13 @@ I’m a passionate Software Engineering student at the University of Bahrain and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimasayed75&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimasayed75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasayed75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatimasayed75&theme=tokyonight" alt="Languages by Repo" width="49%" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatimasayed75&theme=tokyonight" alt="Languages by Commit" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatimasayed75&theme=tokyonight" alt="Stats Summary" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatimasayed75&theme=tokyonight" alt="Languages by Repo" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatimasayed75&theme=tokyonight" alt="Languages by Commit" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatimasayed75&theme=tokyonight" alt="Stats Summary" width="30%" />
 </p>
 
 
