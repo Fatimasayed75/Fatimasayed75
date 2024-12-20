@@ -2,7 +2,7 @@
 
 I’m a passionate Software Engineering student at the University of Bahrain and currently enhancing my skills at Reboot Coding Institute. I enjoy tackling problems and bringing ideas to life through software. I’m always curious about new technologies and focused on improving my skills to build useful software that solves real-world problems.
 
-## 🌐 Socials
+## 🌐 Reach Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-sayed-saeed-07ba22337) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatimaalsayed075@gmail.com)
 
