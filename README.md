@@ -4,12 +4,12 @@ I’m a passionate Software Engineering student at the University of Bahrain and
 
 ## 💬 Reach Out
 
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:fatimaalsayed075@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fatima-sayed-saeed-07ba22337)  
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:fatimaalsayed075@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fatemasayedsaeed)  
 
 
 ## 👩‍💻 Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,php,java,html,css,tailwind,react,nextjs,mysql,sqlite,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,php,java,python,html,css,tailwind,react,nextjs,mysql,sqlite,docker,figma,git,github)](https://skillicons.dev)  
 
 
 ## 📊 GitHub Stats
